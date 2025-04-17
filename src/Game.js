@@ -1,4 +1,3 @@
-
 const Game = ({correct, question, chooseVariant}) => {
     return (
         <div>
